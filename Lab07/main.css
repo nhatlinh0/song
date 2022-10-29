@@ -44,7 +44,7 @@ body{
 
 .right{
     width: 70%;
-    background-color: #a29bfe;
+    background-color: #1e90ff;
 }
 
 .info{
@@ -149,42 +149,42 @@ body{
 }
 
 .skill__html{
-    background-color: #fd79a8;
+    background-color: #2ed573;
     border-radius: 10px;
     width: 80%;
     height: 100%;
 }
 
 .skill__css{
-    background-color: #fd79a8;
+    background-color: #2ed573;
     border-radius: 10px;
     width: 70%;
     height: 100%;
 }
 
 .skill__java{
-    background-color: #fd79a8;
+    background-color: #2ed573;
     border-radius: 10px;
     width: 50%;
     height: 100%;
 }
 
 .skill__pts{
-    background-color: #fd79a8;
+    background-color: #2ed573;
     border-radius: 10px;
     width: 75%;
     height: 100%;
 }
 
 .skill__sk{
-    background-color: #fd79a8;
+    background-color: #2ed573;
     border-radius: 10px;
     width: 80%;
     height: 100%;
 }
 
 .skill__xd{
-    background-color: #fd79a8;
+    background-color: #2ed573;
     border-radius: 10px;
     width: 60%;
     height: 100%;
@@ -208,7 +208,7 @@ body{
 
 .work__item{
     border: 1px solid #dfe6e9;
-    border-left: 10px solid #a29bfe;
+    border-left: 10px solid #1e90ff;
     border-radius: 5px;
     margin-top: 40px;
     box-shadow: 0 0 5px #333;
@@ -217,12 +217,12 @@ body{
 
 .decor-bar{
     width: 100%;
-    background-color: #fd79a8;
+    background-color: #2ed573;
 }
 
 .decor-bar-child{
     width: 80%;
-    background-color: #a29bfe;
+    background-color: #1e90ff;
 }
 
 .edu{
